@@ -16,7 +16,7 @@
 	<form method="post" action="buy_index.jsp">
     	<button>買い物</button>
 	</form>
-	<form method="post" action="mypage.jsp">
+	<form method="post" action="/customer/mypage.jsp">
     	<button>MyPage</button>
 	</form>
 </body>
