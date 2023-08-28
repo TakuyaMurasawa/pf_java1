@@ -7,17 +7,17 @@
 <title>ホーム画面</title>
 </head>
 <body>
-	<form method="post" action="index.jsp">
-    	<button>一覧</button>
-	</form>
-	<form method="post" action="edit.jsp">
-    	<button>申し込み</button>
-	</form>
-	<form method="post" action="buy_index.jsp">
-    	<button>買い物</button>
-	</form>
-	<form method="post" action="/customer/mypage.jsp">
-    	<button>MyPage</button>
-	</form>
+	<a href="animals/animals_index.jsp" >
+		<button>一覧</button>
+	</a>
+	<a href="animals/animals_edit.jsp" >
+		<button>申し込み</button>
+	</a>
+	<a href="shopping/shopping_index.jsp" >
+		<button>買い物</button>
+	</a>
+	<a href="customers/mypage.jsp" >
+		<button>MyPage</button>
+	</a>
 </body>
 </html>

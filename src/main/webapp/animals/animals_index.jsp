@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>ワンニャン広場</h1>
 </body>
 </html>
