@@ -7,6 +7,7 @@
 <title>ホーム画面</title>
 </head>
 <body>
+<h1>Wan🐶Nyan🐈</h1>
 	<a href="animals/animals_index.jsp" >
 		<button>一覧</button>
 	</a>
