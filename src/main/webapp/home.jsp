@@ -11,7 +11,7 @@
 	<a href="animals/animals_index.jsp" >
 		<button>一覧</button>
 	</a>
-	<a href="animals/animals_edit.jsp" >
+	<a href="animals/animals_new.jsp" >
 		<button>申し込み</button>
 	</a>
 	<a href="shopping/shopping_index.jsp" >
